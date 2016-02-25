@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Feb 24 12:00:35 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Tom-Hu\\Desktop\\nexpaq-lib.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|android-support-v4.jar>
+includes=
